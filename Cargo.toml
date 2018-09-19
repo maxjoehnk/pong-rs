@@ -1,0 +1,9 @@
+[package]
+name = "pong-rs"
+version = "0.1.0"
+authors = ["Max Jöhnk <maxjoehnk@gmail.com>"]
+
+[dependencies]
+amethyst = "0.8"
+serde = "1"
+serde_derive = "1"
